@@ -19,9 +19,10 @@ function App() {
         >
           Learn React
         </a>
+        <MyComponent />
       </header>
-      {/* <MyComponent /> */}
-      <MyComponent></MyComponent>
+
+      {/* <MyComponent></MyComponent> */}
     </div>
   );
 }
